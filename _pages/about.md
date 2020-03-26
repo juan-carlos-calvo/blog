@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-Chilean Data Scientist.
+Chilean Data Scientist. Views are mine.
