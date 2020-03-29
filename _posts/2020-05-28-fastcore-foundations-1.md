@@ -6,6 +6,7 @@ toc: true
 badges: true
 comments: true
 categories: [fastcore, fastai, python]
+hide: true
 nb_path: _notebooks/2020-05-28-fastcore-foundations-1.ipynb
 layout: notebook
 ---
