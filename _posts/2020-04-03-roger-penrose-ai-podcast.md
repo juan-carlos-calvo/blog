@@ -28,7 +28,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>{% include youtube.html content='<a href="https://www.youtube.com/orMtwOz6Db0">https://www.youtube.com/orMtwOz6Db0</a>' %}</p>
+<p>{% include youtube.html content='<a href="https://www.youtube.com/watch?v=orMtwOz6Db0&amp;feature=youtu.be">https://www.youtube.com/watch?v=orMtwOz6Db0&amp;feature=youtu.be</a>' %}</p>
 
 </div>
 </div>
@@ -52,7 +52,7 @@ layout: notebook
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Roger wonders were this understanding comes from. In going through each physical theory, his agument is that all of them can be put into a computer {% fn 1 %}. You can run black hole simulations on a computer and you can even put the Schrödinger equation in it. However, according to him {% fn 2 %} , quantum mechanics is incomplete, especifically, because of the collapse of the wave function. This collapse is not in the equation. There is not sistemathic theory which characterizes what constitutes and observation and what doesn't. Roger believes this is where a tentative building block of consciousness might be found.</p>
+<p>Roger wonders were this understanding comes from. In going through each physical theory, his agument is that (almost) all of them can be put into a computer {% fn 1 %}. You can run black hole simulations on a computer and you can even put the Schrödinger equation in it. However, according to him {% fn 2 %}, quantum mechanics is incomplete, especifically, because of the collapse of the wave function. This collapse is not in the equation. There is not sistemathic theory which characterizes what constitutes and observation and what doesn't. Roger believes this is where a tentative building block of consciousness might be found.</p>
 
 </div>
 </div>
