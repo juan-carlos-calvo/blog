@@ -28,7 +28,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>{% include youtube.html content='<a href="https://www.youtube.com/watch?v=orMtwOz6Db0&amp;feature=youtu.be">https://www.youtube.com/watch?v=orMtwOz6Db0&amp;feature=youtu.be</a>' %}</p>
+<p>{% include youtube.html content='<a href="https://youtu.be/orMtwOz6Db0">https://youtu.be/orMtwOz6Db0</a>' %}</p>
 
 </div>
 </div>
