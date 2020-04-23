@@ -10,6 +10,7 @@ dependencies:
   - jupyterlab_code_formatter
   - pip
   - pytorch>=1.5.O
+  - pandas
   - pip:
     - fastcore
     - nbdev
