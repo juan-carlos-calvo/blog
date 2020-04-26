@@ -1,0 +1,17 @@
+name: blog
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.7
+  - jupyterlab=1.2.10
+  - nodejs
+  - black
+  - jupyterlab_code_formatter
+  - pip
+  - pytorch>=1.5.O
+  - pandas
+  - pillow
+  - pip:
+    - fastcore
+    - nbdev
