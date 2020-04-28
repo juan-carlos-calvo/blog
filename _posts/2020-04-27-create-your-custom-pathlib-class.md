@@ -1,7 +1,7 @@
 ---
 keywords: fastai
 description: Utils
-title: Create your custom pathlib class
+title: Create your custom Path class
 toc: true 
 badges: true
 comments: true
